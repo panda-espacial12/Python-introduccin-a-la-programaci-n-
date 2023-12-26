@@ -1,0 +1,11 @@
+(a)
+pedir la edad de los compañeros que vinieron hoy
+ y ordenar los datos de menor a mayor 
+
+
+(b)
+el mayor es el profesor y el menor 
+es el asistente quine es quien
+
+
+

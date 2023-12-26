@@ -1,0 +1,17 @@
+los datos son:
+
+nombre: lucas
+apellidos: dalto
+--------
+nombre: matias
+apellidos: zing
+--------
+nombre: camila
+apellidos: dalto
+--------
+nombre: pedro
+apellidos: robetrix
+--------
+nombre: roberto
+apellidos: tarado
+--------
